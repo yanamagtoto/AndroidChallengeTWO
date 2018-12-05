@@ -52,7 +52,7 @@
         app:layout_constraintVertical_bias="0.053" />
 
     <TextView
-        android:id="@+id/txtview_shape"
+        android:id="@+id/txtview_equals"
         android:layout_width="385dp"
         android:layout_height="58dp"
         android:background="@color/colorPrimary"
