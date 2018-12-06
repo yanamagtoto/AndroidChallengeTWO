@@ -29,7 +29,7 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.078" />
@@ -52,7 +52,7 @@
         app:layout_constraintVertical_bias="0.053" />
 
     <TextView
-        android:id="@+id/txtview_equals"
+        android:id="@+id/txtview_bg"
         android:layout_width="385dp"
         android:layout_height="58dp"
         android:background="@color/colorPrimary"
